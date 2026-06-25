@@ -1,5 +1,5 @@
-# Talk_to_you_about_Docker_and_K8S
-Conversemos de Docker y Kubernetes (minikube)
+# Aprende de Docker y Kubernetes en minikube
+
 ## INDICE
 * Docker.
 * Docker  Compose.
